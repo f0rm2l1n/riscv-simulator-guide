@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "deque": "cpp"
+    }
+}
