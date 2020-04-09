@@ -8,5 +8,9 @@ RISC-V模拟器，相关硬件实现`riscv-isa-sim`以及模拟器pk, bbl的指�
 实话实话、纯C++构建的两个工程代码读起来是不难的，但总归有工作量。以下文章的分析多数的视野狭隘、若要刨根问底，还是得通读代码
 
 * [spike,bbl,pk是什么?为什么?怎么用](./contents/00.md)
-* [spike+bbl运行linux框架,简介](./contents/01.md)
+* [spike+bbl运行linux框架,启动过程](./contents/01.md)
 * [spike调试linux为什么如此慢](./contents/02.md)
+* [spike硬件体系](./contents/03.md)
+
+## 计划
+为了方便，原版本是中文完成的。在方便的时候将支持英文的版本
